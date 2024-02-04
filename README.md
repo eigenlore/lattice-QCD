@@ -1,2 +1,2 @@
 # lattice-QCD
-η' mass calculation in lattice QCD.
+Numerical simulations of QCD on a lattice
